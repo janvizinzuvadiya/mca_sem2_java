@@ -1,0 +1,40 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Virtual machines / Secrets
+.env
+*.credentials
+
+# Maven (if you use it)
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.restore
+release.properties
+
+# Gradle (if you use it)
+.gradle/
+build/
+
+# IDE Specific (VS Code, IntelliJ, Eclipse)
+.settings/
+.project
+.classpath
+.metadata/
+.idea/
+*.iml
+*.iws
+.vscode/
+bin/
