@@ -38,3 +38,4 @@ build/
 *.iws
 .vscode/
 bin/
+/Assignment2/nbproject/private/
