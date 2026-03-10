@@ -1,13 +1,24 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package assignment2;
 
-/**
- *
- * @author jnv
- */
+
+
 public class Inter_Click_19 {
     
+}
+class Button extends Inter_Click_19 implements Clickable
+{
+    public void click()
+    {
+        System.out.println("Button is Clicked");
+    }
+            
+}
+class Link extends Inter_Click_19 implements Clickable
+{
+    public void click()
+    {
+        System.out.println("Link is Clicked");
+    }
+            
 }
