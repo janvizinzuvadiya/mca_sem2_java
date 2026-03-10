@@ -56,8 +56,22 @@ public class Assignment2 {
 //            System.out.println("Addition = "+ m.add(2,2));
 //            System.out.println("Substraction = "+ m.add(4,2));
             
-                string_methods_09 sm = new string_methods_09();
-               sm.display();
+//               string_methods_09 sm = new string_methods_09();
+//               sm.display();
+        
+//            Author bp = new book_publication();
+//            bp.display();
+//            
+//            Author p = new Paper_publication();
+//            p.display();
+        
+//            Student s  = new Student("John", "Deo", 'A');
+//            s.Display();
+//            
+//            Worker w = new Worker("Harry", "Richeal", 12000, 12);
+//            System.out.println("Name:"+w.firstName+" "+w.lastName);                            
+//            System.out.println("Salary Per Hour = "+w.MoneyPerHour());
+            
     }
     
 }
