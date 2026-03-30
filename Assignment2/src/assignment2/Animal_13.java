@@ -14,9 +14,8 @@ public class Animal_13
         this.name = name;
         this.age = age;
     }
-   
     
-}
+}       
 class Dog extends Animal_13
 {
     String breed ;
